@@ -35,3 +35,60 @@
 #nav-container ul li a:hover {
   text-decoration: overline;
 }
+
+/* Push content below the navbar */
+.body-container {
+  max-width: 85%;
+  margin: 80px auto 0; /* Pushes content down */
+}
+
+/* Ensure the h1 remains in normal flow */
+h1 {
+  font-family: "Sigmar", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Timmana", serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1.125em;
+}
+
+p {
+  font-family: "Poppins", serif;
+  font-weight: 200;
+  font-style: normal;
+  margin: .5em;
+}
+
+span#bold-text {
+  font-weight: 600;
+  font-size: 1.25em;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 3% 0;
+}
+
+.body-container-resume {
+  max-width: 85%;
+  margin: 80px auto 0; /* Pushes content down */
+}
+
+.body-container-resources {
+  max-width: 85%;
+  margin: 80px auto 0; /* Pushes content down */
+}
+
+ul.lists {
+  list-style-type: square;
+  margin-left: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
