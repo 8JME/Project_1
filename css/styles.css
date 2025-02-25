@@ -92,3 +92,11 @@ ul.lists {
   margin-top: 1em;
   margin-bottom: 1em;
 }
+
+div#projects-labs {
+  margin: 2em;
+}
+
+div#projects-labs dl{
+  margin: 1.25em 0;
+}
