@@ -1,6 +1,6 @@
 /* Navigation bar */
 #navbar {
-  font-family: "Sigmar", sans-serif;
+  font-family: "Sigmar", Arial;
   font-weight: 200;
   font-style: normal;
   width: 100%;
@@ -118,7 +118,7 @@
 
 /* Content */
 h1 {
-  font-family: "Sigmar", serif;
+  font-family: "Sigmar", Arial;
   font-weight: 400;
   font-style: normal;
   font-size: 2rem;
@@ -126,7 +126,7 @@ h1 {
 }
 
 h3 {
-  font-family: "Timmana", serif;
+  font-family: "Timmana", Garamond;
   font-weight: 600;
   font-style: normal;
   font-size: 1.125em;
@@ -137,7 +137,7 @@ h3 {
 }
 
 p {
-  font-family: "Poppins", serif;
+  font-family: "Poppins", "Courier New";
   font-weight: 200;
   font-style: normal;
   margin: .5em;
