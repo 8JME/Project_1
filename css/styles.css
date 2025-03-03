@@ -112,7 +112,7 @@
 
   /* Adjust margin for content in larger screens */
   .body-container {
-      margin-top: 12%; /* Matches the smaller navbar */
+      margin-top: 10%; /* Matches the smaller navbar */
   }
 }
 
